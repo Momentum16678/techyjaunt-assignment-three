@@ -1,0 +1,12 @@
+{
+  "_id": "664f1a2b3c4d5e6f7a8b9c0d",
+  "fullName": "Chukwuemeka Obi",
+  "email": "emeka.obi@email.com",
+  "phoneNumber": "08012345678",
+  "skillCategory": "Web Dev",
+  "gender": "Male",
+  "address": "Lagos, Nigeria",
+  "isVerified": true,
+  "createdAt": "2026-05-12T10:00:00.000Z",
+  "updatedAt": "2026-05-12T12:30:00.000Z"
+}
